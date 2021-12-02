@@ -1,4 +1,4 @@
-# Lab 4
+# K-Palindrome
 
 ## Overview
 For this project I am going to create a program that solves the k-palindrome problem. A palindrome is a string that is the same forwards as it is backwards. To solve this problem, you will need to determine if a provided string can be a palindrome by removing at most k characters. For example, ```asbghbsa``` can be a palindrome if you remove either the ```g``` or the ```h``` and so it is a valid 1-palindrome.  
